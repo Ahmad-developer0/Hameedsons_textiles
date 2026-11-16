@@ -212,6 +212,16 @@ export default function Footer() {
               <p className="mb-0">Manufacturers and Exporters of Top Quality Fabrics</p>
             </div>
           </div>
+          <div className="row mt-2">
+            <div className="col-12 text-center">
+              <p className="mb-0" style={{ fontSize: '13px' }}>
+                Website designed &amp; developed by{' '}
+                <a href="https://nexyrastudio.com" target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'underline' }}>
+                  Nexyra Studio
+                </a>
+              </p>
+            </div>
+          </div>
         </div>
       </div>
 
